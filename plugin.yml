@@ -1,0 +1,9 @@
+name: PDGHLobbyCMD
+main: me.mchiappinam.pdghlobbycmd.Main
+author: mchiappinam
+version: 1.0
+website: http://pdgh.net/
+commands:
+   lobby:
+      description: Retorna para o lobby
+      usage: /<command>
